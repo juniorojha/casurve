@@ -1,0 +1,29 @@
+﻿var contactus = new Array();
+    contactus[0] = "Please enter your name";
+    contactus[1] = "Please enter a valid name";
+    contactus[2] = "Please enter a company ";
+    contactus[3] = "Please enter a valid company ";
+    contactus[4] = "Please enter an Address";
+    contactus[5] = "Please enter a country";
+    contactus[6] = "Please enter a valid country";
+    contactus[7] = "Please enter a phone No.";
+    contactus[8] = "Please enter a valid phone No.";
+    contactus[9] = "Please enter an email id";
+    contactus[10] = "Please enter a valid email id";
+    contactus[11] = "Please enter a message";
+    contactus[12] = "Please enter a valid message";
+    contactus[13] = "Please select reason";
+    contactus[14] = "Please enter your verification code";
+    contactus[15] = "Thank you for contacting us. We will get back to you soon.";
+    contactus[16] = "Internal Error occured.please try again after some time";
+    contactus[17] = "Please enter your designation";
+    contactus[18] = "Please enter a valid address";
+    contactus[19] = "Please enter your question is about";
+    contactus[20] = "Please specify your question is about";
+	
+var subscribe = new Array();
+    subscribe[0] = "Please enter an email id";
+    subscribe[1] = "Please enter a valid email id";
+    subscribe[2] = "Thank you for subscribing to our newsletter";	
+    subscribe[3] = "You have already subscribed to our newsletter";	
+    
